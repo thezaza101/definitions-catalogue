@@ -1,6 +1,10 @@
 # Data definitions catalogue
 Making it easy to discover what data is collected, held or used by government, no matter who defines it, how it is defined, or where it is defined.
 
+## Current Status
+The Data definitions catalogue is currently under development. It is currently at the alpha stage, a live version can be viewed at [https://definitions.ausdx.io/](https://definitions.ausdx.io/)
+
+[![Build Status](https://travis-ci.org/dxa/definitions-catalogue.svg?branch=master)](https://travis-ci.org/dxa/definitions-catalogue)
 ## Technology
 This service uses Kotlin, Spring Boot and is deployed to Heroku.
 
