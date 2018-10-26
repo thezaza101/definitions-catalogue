@@ -1,3 +1,6 @@
+# This repo is now archived
+Please see [the new repo](https://github.com/govau/api-gov-au-definitions)
+
 # Data definitions catalogue
 Making it easy to discover what data is collected, held or used by government, no matter who defines it, how it is defined, or where it is defined.
 
